@@ -1,7 +1,7 @@
 # Bangla Emotion Detection Using Deep Learning
 
 ## Overview
-This repository contains the implementation of deep learning models for detecting emotions from Bangla text. The project utilizes Bidirectional Gated Recurrent Unit (BiGRU) and CNN-BiLSTM models to classify text into various emotional categories.
+This repository contains the implementation of deep learning models for detecting emotions from Bangla text. The project utilizes Bidirectional Gated Recurrent Unit (BiGRU) and CNN-BiLSTM models to classify text into various emotional categories. The researchpaper can be found [here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JekLRZ4AAAAJ&citation_for_view=JekLRZ4AAAAJ:u-x6o8ySG0sC)
 
 ## Requirements
 - Python 3.x
