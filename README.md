@@ -17,7 +17,7 @@ Clone the repository and install the required packages.
 The models are trained on a Bangla text dataset, translated from English, encompassing six emotions.
 
 ## Usage
-Run the main script to train or test the models:
+Run the main script to train or test the models.
 
 
 ## Models
