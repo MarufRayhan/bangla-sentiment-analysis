@@ -1,7 +1,7 @@
 # Bangla Emotion Detection Using Deep Learning
 
 ## Overview
-This repository contains the implementation of deep learning models for detecting emotions from Bangla text. The project utilizes Bidirectional Gated Recurrent Unit (BiGRU) and CNN-BiLSTM (Convolutional Neural Network with Bidirectional Long Short-Term Memory) models to classify text into six emotional categories: happiness (আনন্দ), sadness (বিষণ্ণতা), fear (ভয়), anger (রাগ), love (ভালবাসা), and surprise (আশ্চর্য). The research paper associated with this work was published in the 2020 23rd International Conference on Computer and Information Technology (ICCIT).
+This repository contains the implementation of deep learning models for detecting emotions from Bangla text. The project utilizes Bidirectional Gated Recurrent Unit (BiGRU) and CNN-BiLSTM (Convolutional Neural Network with Bidirectional Long Short-Term Memory) models to classify text into six emotional categories: happiness (আনন্দ), sadness (বিষণ্ণতা), fear (ভয়), anger (রাগ), love (ভালবাসা), and surprise (আশ্চর্য). The research paper ["Multilabel Emotion Detection from Bangla Text Using BiGRU and CNN-BiLSTM"](https://ieeexplore.ieee.org/abstract/document/9392690) associated with this work was published in the 2020 23rd International Conference on Computer and Information Technology (ICCIT).
 
 ## Features
 - Text preprocessing pipeline optimized for Bangla language
